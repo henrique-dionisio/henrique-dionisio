@@ -7,7 +7,7 @@ Meu nome é Henrique, estudante apaixonado por tecnologia e inovação. Atualmen
 - 🎓 Desenvolvimento Front-end.
 
 ## 🛠️ Tecnologias
-- HTML5, CSS3, JavaScript, MediaQueries.
+- HTML5, CSS3, JavaScript, MediaQueries, BootStrap.
 
 ## 🤝 Vamos Conectar?
 - [LinkedIn](https://www.linkedin.com/in/luiz-henrique-silva-dionisio-b517332a8/)
